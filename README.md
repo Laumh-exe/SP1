@@ -1,0 +1,1 @@
+I mit SP1 projekt har taget inspiration fra Pong. Jeg har lavet flere classes til at håndtære de forskellige elementer. Jeg har lavet det over de sidste par uger, så havde nok gjort nogen ting anderledes i dag, og organiseret mine klasser og metoderne deri på en anden måde, blandt andet med getters og setters. men er tilfreds med hvordan programmet virker.
